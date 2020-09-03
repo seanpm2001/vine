@@ -1,16 +1,14 @@
-from __future__ import absolute_import, unicode_literals
-
 from vine.abstract import Thenable
 from vine.promises import promise
 
 
-class CanThen(object):
+class CanThen:
 
     def then(self, x, y):
         pass
 
 
-class CannotThen(object):
+class CannotThen:
     pass
 
 
