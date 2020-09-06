@@ -1,4 +1,4 @@
-:Version: 5.0.0a1
+:Version: 5.0.0
 :Web: https://vine.readthedocs.io/
 :Download: https://pypi.org/project/vine/
 :Source: http://github.com/celery/vine/
