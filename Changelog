@@ -1,6 +1,17 @@
 Changes
 =======
 
+.. _version-5.0.0:
+
+5.0.0
+=====
+:release-date: 2020-09-06 6:10 P.M UTC+3:00
+:release-by: Omer Katz
+
+- Dropped Python 3.5 support.
+
+  Contributed by **Omer Katz**
+
 .. _version-5.0.0a1:
 
 5.0.0a1
