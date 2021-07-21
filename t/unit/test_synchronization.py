@@ -1,6 +1,6 @@
-import pytest
+from unittest.mock import Mock
 
-from case import Mock
+import pytest
 
 from vine.promises import promise
 from vine.synchronization import barrier

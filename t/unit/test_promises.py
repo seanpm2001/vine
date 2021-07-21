@@ -1,12 +1,11 @@
-import pytest
 import sys
 import traceback
-
+import weakref
 from collections import deque
 from struct import pack, unpack
-import weakref
+from unittest.mock import Mock
 
-from case import Mock
+import pytest
 
 from vine.funtools import wrap
 from vine.promises import promise
